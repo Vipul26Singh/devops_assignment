@@ -14,6 +14,7 @@ There are a couple of requirements:
 
 ### Discussion
 - [ ] Gather metrics from deployed application
+- [ ] Add SSL
 
 
 Good luck with the assignment!
