@@ -1,5 +1,5 @@
 ## Introduction
-This repository holds the DevOps assignment. In this project you will a service, supplied with a Dockerfile.
+This repository holds the DevOps assignment. This project has a service, supplied with a Dockerfile.
 
 ## The assignment
 
