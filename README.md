@@ -10,7 +10,9 @@ There are a couple of requirements:
 
 
 ### Optional requirement
-- [ ] Configure CI/CD pipeline in gitlab.com as we use this
+- [ ] Configure CI/CD pipeline preferably on gitlab.com as we use this
+
+### Discussion
 - [ ] Gather metrics from deployed application
 
 
